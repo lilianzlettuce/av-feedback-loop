@@ -14,3 +14,12 @@ wheels/
 .ruff_cache/
 .ipynb_checkpoints/
 out/
+
+# misc
+.DS_Store
+*.pem
+/raw_videos
+/raw_images
+
+# env files (can opt-in for committing if needed)
+.env*
